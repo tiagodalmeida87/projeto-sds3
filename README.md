@@ -1,17 +1,36 @@
 ## DSVendas - Semana Spring React - SDS 4.0
 
+![home_page]()
+###### home – DSVendas
+
+
+![Dashboard]()
+###### dashboard – DSVendas
+
 ### O projeto
 
-**O DSVendas** - é um dashboard que apresenta relatório de vendedores e suas respectivas vendas.
+**O DSVendas** - é um dashboard que apresenta relatório de vendedores e suas respectivas vendas, usando Spring no back end, e React no front end, desde a criação dos projetos até a implantação na nuvem. 
+
+Acesso ao [DSVendas](https://dsvendastiago.netlify.app/) 
+
+> Status do Projeto: Concluido :heavy_check_mark:
+
+![deploys]()
+###### deploys_GitHub – dsvendastiago
+
 
 ### TECNOLOGIAS 🖥️
 
 #### Website  
-- React
-- Spring Boot 
+- ReactJS
+- Bootstrap
+- Apex Charts(Gráficos)
 - Netlify
+
+#### Server 
+- Spring Boot (Web, JPA, H2, Security)
+- Postgres
 - Heroku
-- Postgresql
 - Postman
 - GitHub
 
