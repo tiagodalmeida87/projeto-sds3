@@ -1,11 +1,12 @@
 ## DSVendas - Semana Spring React - SDS 3.0
 
-![home_page](https://github.com/tiagodalmeida87/projeto-sds3/blob/main/img/HomeDSVendas.jpg)
+
 ###### home – DSVendas
+![home_page](https://github.com/tiagodalmeida87/projeto-sds3/blob/main/img/HomeDSVendas.jpg)
 
-
-![Dashboard](https://github.com/tiagodalmeida87/projeto-sds3/blob/main/img/Dashboard_DSVendas.jpg)
 ###### dashboard – DSVendas
+![Dashboard](https://github.com/tiagodalmeida87/projeto-sds3/blob/main/img/Dashboard_DSVendas.jpg)
+
 
 ### O projeto
 
