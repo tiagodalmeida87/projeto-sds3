@@ -40,7 +40,7 @@ const BarChart = () => {
 
                 setChartData({
                     labels: {
-                        categories: myLabels
+                        categories: myLabels,
                     },
                     series: [
                         {
